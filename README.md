@@ -1,7 +1,7 @@
 
 # 🛒 Amazon Front Page Clone
 
-A visually accurate clone of the Amazon front page using **HTML**, **CSS*
+A visually accurate clone of the Amazon front page using **HTML**, **CSS**
 ## 🔥 Features
 
 - 📦 Product grid layout
